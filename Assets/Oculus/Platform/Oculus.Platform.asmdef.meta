@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e73abe22a36c584bb18fd456b53d5e5
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 55.0
+  assetPath: Assets/Oculus/Platform/Oculus.Platform.asmdef
+  uploadId: 597950

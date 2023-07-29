@@ -1,0 +1,3 @@
+[submodule "Assets/Git/SubAssets_OMIUnityAbstractCoreLayer"]
+	path = Assets/Git/SubAssets_OMIUnityAbstractCoreLayer
+	url = git@github.com-omi:OpenMacroInput/SubAssets_OMIUnityAbstractCoreLayer.git

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f7dfd9c5a9ecc4a4c8307a23fd4056ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 55.0
+  assetPath: Assets/Oculus/Platform/Scripts/Models/AppDownloadResult.cs
+  uploadId: 597950

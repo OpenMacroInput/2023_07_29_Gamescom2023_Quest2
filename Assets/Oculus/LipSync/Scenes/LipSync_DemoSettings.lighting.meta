@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac7f3d0f168b1ec47a8c7ea4fce33228
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 55.0
+  assetPath: Assets/Oculus/LipSync/Scenes/LipSync_DemoSettings.lighting
+  uploadId: 597950

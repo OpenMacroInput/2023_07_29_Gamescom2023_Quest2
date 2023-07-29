@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b39b91152609419ea70a3dc40167db32
+timeCreated: 1677035216
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 55.0
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Editor/Windows/PropertyDrawers/WitComposerInfoPropertyDrawer.cs
+  uploadId: 597950
